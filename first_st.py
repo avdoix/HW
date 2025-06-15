@@ -1,6 +1,7 @@
 import streamlit as st
 
 st.title("**파이썬 프로젝트 과제물**/ C535326 이현민")
+st.audio("st.data/st.audio.mp3")
 
 
 st.header('목차')
