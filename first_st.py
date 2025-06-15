@@ -23,7 +23,8 @@ st.write("""
 데이터 분석을 통해 시장의 트렌드를 파악하고, 사람들에게 이를 토대로한 다양한 분야의 조언들을 제공거나 생활 속 불편함 들을 해결하는 방법을 찾을 수 있어서 관심을 가지게 되었습니다.
 """)
 
-st.header('관심기업/ ":blue[토스]"') 
+st.header('관심기업/ ":blue[토스]"')
+st.image('https://newsimg.sedaily.com/2019/02/01/1VF58JUKF7_3.jpg') 
 
 st.markdown(""" - 토스 소개 영상""")
 st.subheader('기업 소개')
