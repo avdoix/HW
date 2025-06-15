@@ -1,7 +1,6 @@
 import streamlit as st
 
 st.title("**파이썬 프로젝트 과제물**/ C535326 이현민")
-st.audio('st.data/st.audio.mp3', format='audio/mp3')
 
 st.header('목차')
 st.markdown("""
@@ -28,6 +27,7 @@ st.header('관심기업/ ":blue[토스]"')
 st.image('https://newsimg.sedaily.com/2019/02/01/1VF58JUKF7_3.jpg') 
 
 st.markdown(""" - 토스 소개 영상""")
+st.video("https://www.youtube.com/watch?v=D2-SKTk52EI")
 st.subheader('기업 소개')
 st.write("""토스는 2013년 이승건 대표가 설립한 핀테크 기업 비바리퍼블리카가 운영하는 대표적인 금융 플랫폼입니다.  
 2015년, 복잡한 공인인증서 절차를 없앤 간편 송금 서비스를 출시하며 주목을 받았고, 이후 송금뿐 아니라 계좌·카드 통합 관리, 대출 비교, 신용점수 조회, 보험, 투자, 세금 납부 등 다양한 금융 서비스를 하나의 앱 안에서 제공하는 금융 앱으로 성장했습니다.
