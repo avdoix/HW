@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.title("**파이썬 프로젝트 과제물**/ C535326 이현민")
-st.audio("st.data/st.audio.mp3")
+st.audio("https://github.com/avdoix/HW/blob/main/st.audio.mp3")
 
 
 st.header('목차')
@@ -26,7 +26,7 @@ st.write("""
 """)
 
 st.header('관심기업/ ":blue[토스]"') 
-st.image("st.data/tosslogo.jpg", width=100)
+st.image("https://github.com/avdoix/HW/blob/main/tosslogo.jpg", width=100)
 
 st.markdown(""" - 토스 소개 영상""")
 st.video("https://www.youtube.com/watch?v=D2-SKTk52EI")
